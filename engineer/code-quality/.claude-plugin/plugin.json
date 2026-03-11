@@ -1,0 +1,16 @@
+{
+  "name": "code-quality",
+  "version": "1.0.0",
+  "description": "Comprehensive guide to clean code, refactoring, SOLID principles, code review techniques, and code smell detection.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "engineer",
+    "code-quality",
+    "refactoring",
+    "SOLID",
+    "clean-code"
+  ],
+  "license": "MIT"
+}

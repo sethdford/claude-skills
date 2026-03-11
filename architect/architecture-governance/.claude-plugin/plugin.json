@@ -1,0 +1,14 @@
+{
+  "name": "architecture-governance",
+  "version": "1.0.0",
+  "description": "Establish architecture governance, design fitness functions, manage tech debt, and ensure compliance. Build sustainable architecture practices.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "architect",
+    "governance",
+    "fitness-function",
+    "compliance",
+    "tech-debt"
+  ],
+  "license": "MIT"
+}

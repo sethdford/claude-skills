@@ -1,0 +1,8 @@
+{
+  "name": "devops-practices",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline design, containerization, deployment strategies, monitoring, feature flags, IaC, and alerting.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["engineer", "devops", "ci-cd", "infrastructure"],
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "api-testing",
+    "version": "1.0.0",
+    "description": "QA skills for api-testing domain.",
+    "author": { "name": "Seth Ford" },
+    "keywords": ["qa", "testing"],
+    "license": "MIT"
+}

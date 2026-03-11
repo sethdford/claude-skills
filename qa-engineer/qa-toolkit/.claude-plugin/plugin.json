@@ -1,0 +1,8 @@
+{
+    "name": "qa-toolkit",
+    "version": "1.0.0",
+    "description": "QA skills for qa-toolkit domain.",
+    "author": { "name": "Seth Ford" },
+    "keywords": ["qa", "testing"],
+    "license": "MIT"
+}

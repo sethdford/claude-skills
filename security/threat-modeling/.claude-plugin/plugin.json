@@ -1,0 +1,16 @@
+{
+  "name": "threat-modeling",
+  "version": "1.0.0",
+  "description": "Comprehensive threat modeling toolkit using STRIDE, attack trees, data flow analysis, and risk scoring. Model threats, analyze attack surfaces, assess organizational risk, and map trust boundaries.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "security",
+    "threat-modeling",
+    "stride",
+    "attack-trees",
+    "risk-assessment"
+  ],
+  "license": "MIT"
+}

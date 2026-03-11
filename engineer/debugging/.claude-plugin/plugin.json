@@ -1,0 +1,8 @@
+{
+  "name": "debugging",
+  "version": "1.0.0",
+  "description": "Systematic debugging, root cause analysis, log analysis, profiling, binary search debugging, and postmortem analysis.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["engineer", "debugging", "troubleshooting"],
+  "license": "MIT"
+}

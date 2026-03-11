@@ -1,0 +1,16 @@
+{
+  "name": "system-design",
+  "version": "1.0.0",
+  "description": "Architecture patterns, system decomposition, distributed systems, and scalability design. Build resilient, scalable systems through proven architectural patterns.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "architect",
+    "system-design",
+    "patterns",
+    "distributed-systems",
+    "scalability"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ux-strategy",
+  "version": "1.0.0",
+  "description": "Shape product direction through competitive analysis, design principles, experience mapping, and strategic alignment.",
+  "author": { "name": "MC Dean", "url": "https://marieclairedean.substack.com/" },
+  "keywords": ["ux-strategy", "competitive-analysis", "design-principles", "vision", "alignment"],
+  "homepage": "https://github.com/Owl-Listener/designer-skills",
+  "license": "MIT"
+}

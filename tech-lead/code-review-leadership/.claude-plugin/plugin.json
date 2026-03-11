@@ -1,0 +1,10 @@
+{
+  "name": "code-review-leadership",
+  "version": "1.0.0",
+  "description": "Code review standards, review culture, quality gates, and automated review infrastructure for tech leads.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["tech-lead", "code-review", "quality", "standards", "culture"],
+  "license": "MIT"
+}

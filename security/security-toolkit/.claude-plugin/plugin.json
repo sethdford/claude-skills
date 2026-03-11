@@ -1,0 +1,10 @@
+{
+  "name": "security-toolkit",
+  "version": "1.0.0",
+  "description": "Cross-cutting security utilities including security champion programs, awareness training, secure architecture review, bug bounty, metrics, red team exercises, and documentation.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["security", "culture", "training", "metrics", "red-team"],
+  "license": "MIT"
+}

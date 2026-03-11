@@ -1,0 +1,10 @@
+{
+  "name": "technical-planning",
+  "version": "1.0.0",
+  "description": "Sprint planning, estimation, technical roadmaps, and capacity planning for tech leads.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["tech-lead", "planning", "estimation", "roadmap", "capacity"],
+  "license": "MIT"
+}

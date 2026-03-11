@@ -1,0 +1,16 @@
+{
+  "name": "quality-attributes",
+  "version": "1.0.0",
+  "description": "Design for non-functional requirements: scalability, reliability, performance, security, maintainability. Master quality attribute analysis and architectural fitness functions.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "architect",
+    "quality-attributes",
+    "nfr",
+    "scalability",
+    "reliability"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "engineering-excellence",
+  "version": "1.0.0",
+  "description": "Engineering standards, developer experience, tooling, testing, and quality practices.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "tech-lead",
+    "excellence",
+    "standards",
+    "developer-experience",
+    "quality"
+  ],
+  "license": "MIT"
+}

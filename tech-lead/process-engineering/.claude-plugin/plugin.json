@@ -1,0 +1,8 @@
+{
+  "name": "process-engineering",
+  "version": "1.0.0",
+  "description": "Development workflows, CI/CD ownership, release management, and incident response for tech leads.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["tech-lead", "process", "CI/CD", "release", "incident"],
+  "license": "MIT"
+}

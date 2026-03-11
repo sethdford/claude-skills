@@ -1,0 +1,15 @@
+{
+  "name": "test-strategy",
+  "version": "1.0.0",
+  "description": "Test planning, risk-based testing, coverage analysis, and test environment management.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "qa",
+    "testing",
+    "test-planning",
+    "risk-based-testing",
+    "test-coverage",
+    "strategy"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "tech-lead-toolkit",
+  "version": "1.0.0",
+  "description": "Cross-cutting utilities for tech leads: journaling, health checks, retrospectives, public communication.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["tech-lead", "toolkit", "journal", "health", "retrospective"],
+  "license": "MIT"
+}

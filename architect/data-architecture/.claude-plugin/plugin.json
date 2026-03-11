@@ -1,0 +1,8 @@
+{
+  "name": "data-architecture",
+  "version": "1.0.0",
+  "description": "Design data architectures: data modeling, storage selection, data flow, integration patterns, data governance. Master polyglot persistence and event sourcing.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["architect", "data", "database", "storage", "modeling"],
+  "license": "MIT"
+}

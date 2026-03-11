@@ -1,0 +1,14 @@
+{
+  "name": "cross-functional-leadership",
+  "version": "1.0.0",
+  "description": "Working with product managers, designers, stakeholders, and cross-team coordination.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "tech-lead",
+    "cross-functional",
+    "product",
+    "design",
+    "stakeholders"
+  ],
+  "license": "MIT"
+}

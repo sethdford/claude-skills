@@ -1,0 +1,10 @@
+{
+  "name": "strategy",
+  "version": "1.0.0",
+  "description": "Product vision, strategy, positioning, and go-to-market planning.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["product-management", "strategy", "vision", "positioning"],
+  "license": "MIT"
+}

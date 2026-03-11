@@ -1,0 +1,10 @@
+{
+  "name": "infrastructure-security",
+  "version": "1.0.0",
+  "description": "Cloud and infrastructure security including cloud posture assessment, network segmentation, container security, Kubernetes hardening, IAM policy design, and zero-trust architecture.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["security", "cloud", "infrastructure", "kubernetes", "iam"],
+  "license": "MIT"
+}

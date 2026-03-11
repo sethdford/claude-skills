@@ -1,0 +1,353 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skills",
+  "version": "1.0.0",
+  "description": "Comprehensive PDLC skills collection: 454 standards-grounded skills and 173 commands across 8 roles — architect, engineer, product manager, tech lead, security, designer, QA engineer, and cross-role SDLC. Every skill includes LLM error mitigation anti-patterns.",
+  "owner": {
+    "name": "Seth Ford"
+  },
+  "plugins": [
+    {
+      "name": "architect-system-design",
+      "description": "Architecture patterns, system decomposition, DDD, microservices, event-driven, CQRS. Grounded in TOGAF, IASA BTABoK, ISO 42010.",
+      "source": "./architect/system-design",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-quality-attributes",
+      "description": "Non-functional requirements, scalability, reliability, performance modeling, trade-off analysis.",
+      "source": "./architect/quality-attributes",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-decision-making",
+      "description": "ADRs, technology radar, build-vs-buy, migration strategy, vendor evaluation.",
+      "source": "./architect/decision-making",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-data-architecture",
+      "description": "Data modeling, storage selection, event sourcing, data governance, pipeline design.",
+      "source": "./architect/data-architecture",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-infrastructure-design",
+      "description": "Cloud architecture, deployment topology, DR planning, multi-region, container orchestration.",
+      "source": "./architect/infrastructure-design",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-governance",
+      "description": "Architecture principles, fitness functions, tech debt assessment, compliance frameworks.",
+      "source": "./architect/architecture-governance",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-communication",
+      "description": "C4 diagrams, RFCs, stakeholder presentations, architecture roadmaps, sequence diagrams.",
+      "source": "./architect/communication",
+      "category": "architecture"
+    },
+    {
+      "name": "architect-toolkit",
+      "description": "Architecture katas, review facilitation, mentoring, anti-patterns catalog, system audits.",
+      "source": "./architect/architect-toolkit",
+      "category": "architecture"
+    },
+    {
+      "name": "engineer-code-quality",
+      "description": "Clean code, refactoring, SOLID principles, code smell detection, complexity analysis.",
+      "source": "./engineer/code-quality",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-testing",
+      "description": "TDD, property-based testing, test architecture, mutation testing, test data management.",
+      "source": "./engineer/testing",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-debugging",
+      "description": "Systematic debugging, root cause analysis, memory leaks, concurrency, postmortems.",
+      "source": "./engineer/debugging",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-implementation-patterns",
+      "description": "Design patterns, data structures, algorithms, concurrency, functional and reactive patterns.",
+      "source": "./engineer/implementation-patterns",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-api-development",
+      "description": "REST, GraphQL, gRPC API design, versioning, documentation, rate limiting, testing.",
+      "source": "./engineer/api-development",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-devops-practices",
+      "description": "CI/CD pipelines, containerization, deployment strategies, monitoring, feature flags.",
+      "source": "./engineer/devops-practices",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-database-engineering",
+      "description": "Schema design, query optimization, migrations, indexing, transaction management.",
+      "source": "./engineer/database-engineering",
+      "category": "engineering"
+    },
+    {
+      "name": "engineer-toolkit",
+      "description": "Technical writing, git workflow, code review checklists, incident response, on-call runbooks.",
+      "source": "./engineer/engineer-toolkit",
+      "category": "engineering"
+    },
+    {
+      "name": "pm-discovery",
+      "description": "Problem discovery, customer research, opportunity assessment, assumption mapping.",
+      "source": "./product-manager/discovery",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-strategy",
+      "description": "Product vision, positioning, value proposition, business model, OKR definition.",
+      "source": "./product-manager/strategy",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-prioritization",
+      "description": "RICE scoring, Kano analysis, cost-of-delay, roadmap design, trade-off evaluation.",
+      "source": "./product-manager/prioritization",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-requirements",
+      "description": "PRDs, user story mapping, acceptance criteria, feature specs, edge case analysis.",
+      "source": "./product-manager/requirements",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-analytics",
+      "description": "Metrics frameworks, experiment design, funnel/cohort analysis, data storytelling.",
+      "source": "./product-manager/analytics",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-launch",
+      "description": "Launch planning, go-to-market, beta programs, rollout strategy, readiness checklists.",
+      "source": "./product-manager/launch",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-stakeholder-management",
+      "description": "Stakeholder mapping, executive summaries, decision logs, cross-functional alignment.",
+      "source": "./product-manager/stakeholder-management",
+      "category": "product-management"
+    },
+    {
+      "name": "pm-toolkit",
+      "description": "Product reviews, retrospectives, one-pagers, briefs, customer advisory boards.",
+      "source": "./product-manager/pm-toolkit",
+      "category": "product-management"
+    },
+    {
+      "name": "tech-lead-planning",
+      "description": "Technical roadmaps, estimation, sprint planning, capacity planning, dependency mapping.",
+      "source": "./tech-lead/technical-planning",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-code-review",
+      "description": "Code review standards, quality gates, review culture, constructive feedback patterns.",
+      "source": "./tech-lead/code-review-leadership",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-team-development",
+      "description": "Mentoring plans, 1:1 templates, skill matrices, career ladders, onboarding programs.",
+      "source": "./tech-lead/team-development",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-decision-making",
+      "description": "RFC processes, technology evaluation, build-vs-buy, spike plans, decision matrices.",
+      "source": "./tech-lead/technical-decision-making",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-process-engineering",
+      "description": "Development workflows, branching strategies, release management, incident processes.",
+      "source": "./tech-lead/process-engineering",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-cross-functional",
+      "description": "Product partnership, design handoff, stakeholder communication, scope negotiation.",
+      "source": "./tech-lead/cross-functional-leadership",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-engineering-excellence",
+      "description": "Coding standards, developer experience, tooling strategy, testing and monitoring.",
+      "source": "./tech-lead/engineering-excellence",
+      "category": "leadership"
+    },
+    {
+      "name": "tech-lead-toolkit",
+      "description": "Tech lead journal, team health checks, retrospectives, team charters, hiring.",
+      "source": "./tech-lead/tech-lead-toolkit",
+      "category": "leadership"
+    },
+    {
+      "name": "security-threat-modeling",
+      "description": "STRIDE analysis, attack trees, trust boundaries, risk scoring. Grounded in NIST, MITRE ATT&CK.",
+      "source": "./security/threat-modeling",
+      "category": "security"
+    },
+    {
+      "name": "security-secure-development",
+      "description": "Secure coding review, OWASP Top 10, authentication/authorization design, cryptography.",
+      "source": "./security/secure-development",
+      "category": "security"
+    },
+    {
+      "name": "security-application-security",
+      "description": "SAST, DAST, dependency scanning, penetration test scoping, API security review.",
+      "source": "./security/application-security",
+      "category": "security"
+    },
+    {
+      "name": "security-infrastructure",
+      "description": "Cloud security posture, network segmentation, container/K8s security, zero-trust.",
+      "source": "./security/infrastructure-security",
+      "category": "security"
+    },
+    {
+      "name": "security-compliance",
+      "description": "GDPR, SOC2, PCI-DSS compliance mapping, audit preparation, data classification.",
+      "source": "./security/compliance-governance",
+      "category": "security"
+    },
+    {
+      "name": "security-incident-response",
+      "description": "IR planning, forensic analysis, containment, evidence preservation, postmortems.",
+      "source": "./security/incident-response",
+      "category": "security"
+    },
+    {
+      "name": "security-operations",
+      "description": "SIEM rules, detection engineering, vulnerability management, threat intelligence.",
+      "source": "./security/security-operations",
+      "category": "security"
+    },
+    {
+      "name": "security-toolkit",
+      "description": "Security champion programs, awareness training, red team exercises, bug bounty.",
+      "source": "./security/security-toolkit",
+      "category": "security"
+    },
+    {
+      "name": "designer-research",
+      "description": "User research: personas, empathy maps, journey maps, interviews, usability testing, JTBD.",
+      "source": "./designer/design-research",
+      "category": "design"
+    },
+    {
+      "name": "designer-systems",
+      "description": "Design systems: tokens, components, accessibility, theming, documentation.",
+      "source": "./designer/design-systems",
+      "category": "design"
+    },
+    {
+      "name": "designer-ux-strategy",
+      "description": "UX strategy: competitive analysis, design principles, experience mapping, alignment.",
+      "source": "./designer/ux-strategy",
+      "category": "design"
+    },
+    {
+      "name": "designer-ui-design",
+      "description": "UI design: color systems, typography, layout grids, responsive design, data viz.",
+      "source": "./designer/ui-design",
+      "category": "design"
+    },
+    {
+      "name": "designer-interaction",
+      "description": "Interaction design: micro-animations, state machines, gestures, error handling, feedback.",
+      "source": "./designer/interaction-design",
+      "category": "design"
+    },
+    {
+      "name": "designer-prototyping-testing",
+      "description": "Prototyping and testing: wireframes, usability heuristics, A/B test design.",
+      "source": "./designer/prototyping-testing",
+      "category": "design"
+    },
+    {
+      "name": "designer-ops",
+      "description": "Design operations: critique, handoff specs, sprint planning, team workflows.",
+      "source": "./designer/design-ops",
+      "category": "design"
+    },
+    {
+      "name": "designer-toolkit",
+      "description": "Designer utilities: rationale, presentations, case studies, UX writing, adoption.",
+      "source": "./designer/designer-toolkit",
+      "category": "design"
+    },
+    {
+      "name": "qa-test-strategy",
+      "description": "Test planning, risk-based testing, coverage analysis, test pyramid, strategy documentation. Grounded in ISTQB, ISO 25010.",
+      "source": "./qa-engineer/test-strategy",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-functional-testing",
+      "description": "Equivalence partitioning, boundary analysis, decision tables, state transitions, use case testing, error guessing.",
+      "source": "./qa-engineer/functional-testing",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-automation",
+      "description": "Test automation frameworks, page object model, CI integration, flaky test management, automation ROI.",
+      "source": "./qa-engineer/automation",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-performance-testing",
+      "description": "Load testing, stress testing, capacity planning, performance profiling, SLA validation.",
+      "source": "./qa-engineer/performance-testing",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-api-testing",
+      "description": "API contract testing, integration testing, mock services, schema validation, API security testing.",
+      "source": "./qa-engineer/api-testing",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-quality-metrics",
+      "description": "Defect metrics, test effectiveness, quality dashboards, process improvement, release readiness.",
+      "source": "./qa-engineer/quality-metrics",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-accessibility-testing",
+      "description": "WCAG compliance, screen reader testing, keyboard navigation, color contrast, ARIA validation.",
+      "source": "./qa-engineer/accessibility-testing",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "qa-toolkit",
+      "description": "Bug reports, test environment management, exploratory testing, regression strategy, QA process.",
+      "source": "./qa-engineer/qa-toolkit",
+      "category": "quality-assurance"
+    },
+    {
+      "name": "sdlc-cross-role",
+      "description": "Cross-functional SDLC workflows: phase gates, definitions of ready/done, feature lifecycle, release checklists, incident-to-improvement, compliance traceability. Grounded in ISO/IEC 12207, 15288.",
+      "source": "./sdlc",
+      "category": "sdlc"
+    }
+  ]
+}

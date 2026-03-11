@@ -1,0 +1,8 @@
+{
+  "name": "api-development",
+  "version": "1.0.0",
+  "description": "REST, GraphQL, gRPC API design, versioning, documentation, rate limiting, error handling, and testing strategies.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["engineer", "api", "rest", "graphql"],
+  "license": "MIT"
+}

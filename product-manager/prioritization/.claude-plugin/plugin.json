@@ -1,0 +1,8 @@
+{
+  "name": "prioritization",
+  "version": "1.0.0",
+  "description": "Prioritization frameworks, roadmapping, and trade-off decision-making.",
+  "author": {"name": "Seth Ford"},
+  "keywords": ["product-management", "prioritization", "roadmap"],
+  "license": "MIT"
+}

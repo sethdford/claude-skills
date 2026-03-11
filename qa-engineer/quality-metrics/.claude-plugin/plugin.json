@@ -1,0 +1,8 @@
+{
+    "name": "quality-metrics",
+    "version": "1.0.0",
+    "description": "QA skills for quality-metrics domain.",
+    "author": { "name": "Seth Ford" },
+    "keywords": ["qa", "testing"],
+    "license": "MIT"
+}

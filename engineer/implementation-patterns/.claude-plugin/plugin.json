@@ -1,0 +1,8 @@
+{
+  "name": "implementation-patterns",
+  "version": "1.0.0",
+  "description": "Design patterns, data structures, algorithms, concurrency patterns, functional patterns, reactive patterns, state management, and resource management.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["engineer", "design-patterns", "algorithms"],
+  "license": "MIT"
+}

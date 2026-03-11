@@ -1,0 +1,16 @@
+{
+  "name": "secure-development",
+  "version": "1.0.0",
+  "description": "Secure coding, OWASP guidance, input validation, cryptography, authentication, and secrets management for secure application development.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "security",
+    "secure-coding",
+    "owasp",
+    "cryptography",
+    "authentication"
+  ],
+  "license": "MIT"
+}

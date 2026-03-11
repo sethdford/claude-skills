@@ -1,0 +1,8 @@
+{
+  "name": "engineer-toolkit",
+  "version": "1.0.0",
+  "description": "Cross-cutting utilities: technical writing, git workflow, code review, pair programming, on-call runbooks, incident response.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["engineer", "toolkit", "documentation", "process"],
+  "license": "MIT"
+}

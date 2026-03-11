@@ -1,0 +1,8 @@
+{
+  "name": "communication",
+  "version": "1.0.0",
+  "description": "Master architecture communication: C4 models, RFCs, presentations, and documentation. Align stakeholders and explain architectural decisions.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["architect", "communication", "c4", "rfc", "presentation"],
+  "license": "MIT"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "discovery",
+  "version": "1.0.0",
+  "description": "Problem discovery, customer research, and opportunity identification for product managers.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "product-management",
+    "discovery",
+    "customer-research",
+    "problem-statement",
+    "opportunity"
+  ],
+  "license": "MIT"
+}

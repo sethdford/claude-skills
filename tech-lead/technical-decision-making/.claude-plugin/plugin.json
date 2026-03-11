@@ -1,0 +1,14 @@
+{
+  "name": "technical-decision-making",
+  "version": "1.0.0",
+  "description": "RFCs, technology evaluation, build-vs-buy decisions, and architecture ownership for tech leads.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "tech-lead",
+    "decision-making",
+    "RFC",
+    "architecture",
+    "build-vs-buy"
+  ],
+  "license": "MIT"
+}

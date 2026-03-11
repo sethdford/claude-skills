@@ -1,0 +1,10 @@
+{
+  "name": "compliance-governance",
+  "version": "1.0.0",
+  "description": "Compliance and governance including regulatory mapping, security policies, audit readiness, GDPR, SOC2, and PCI-DSS compliance.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["security", "compliance", "governance", "gdpr", "pci-dss"],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "decision-making",
+  "version": "1.0.0",
+  "description": "Master architectural decision-making: ADRs, technology selection, build-vs-buy analysis, proof of concepts, and migration planning.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "architect",
+    "decisions",
+    "adr",
+    "technology-selection",
+    "migration"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "sdlc-cross-role",
+  "description": "Cross-functional SDLC workflows that chain skills from 3-5 roles. Phase gates, definitions of ready/done, feature lifecycle, release checklists, incident-to-improvement, and compliance traceability.",
+  "skills": [
+    "skills/sdlc-phase-gate",
+    "skills/definition-of-ready",
+    "skills/definition-of-done",
+    "skills/feature-lifecycle",
+    "skills/release-checklist",
+    "skills/incident-to-improvement",
+    "skills/retrospective-to-action",
+    "skills/compliance-traceability"
+  ],
+  "commands": [
+    "commands/design-review.md",
+    "commands/feature-kickoff.md",
+    "commands/pre-launch-review.md",
+    "commands/security-review.md",
+    "commands/quality-gate.md",
+    "commands/full-lifecycle.md",
+    "commands/post-incident-review.md",
+    "commands/sprint-ceremony.md"
+  ]
+}

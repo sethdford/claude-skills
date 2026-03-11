@@ -1,0 +1,10 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Test strategy, TDD, unit/integration/property-based testing, test architecture, mutation testing, and test data management.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": ["engineer", "testing", "tdd", "quality-assurance"],
+  "license": "MIT"
+}

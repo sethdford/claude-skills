@@ -1,0 +1,8 @@
+{
+  "name": "architect-toolkit",
+  "version": "1.0.0",
+  "description": "Essential architect tools: katas, interview prep, review facilitation, mentoring, anti-patterns, audits, and pattern catalogs.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["architect", "toolkit", "kata", "mentoring", "anti-patterns"],
+  "license": "MIT"
+}

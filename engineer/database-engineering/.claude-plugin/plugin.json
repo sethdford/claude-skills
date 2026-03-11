@@ -1,0 +1,8 @@
+{
+  "name": "database-engineering",
+  "version": "1.0.0",
+  "description": "Schema design, query optimization, migrations, indexing, transactions, data integrity, and connection pooling.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["engineer", "database", "sql", "schema"],
+  "license": "MIT"
+}

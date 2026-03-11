@@ -1,0 +1,16 @@
+{
+  "name": "application-security",
+  "version": "1.0.0",
+  "description": "Application security testing including SAST, DAST, dependency scanning, API security, and web security headers.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "security",
+    "sast",
+    "dast",
+    "dependency-scanning",
+    "api-security"
+  ],
+  "license": "MIT"
+}

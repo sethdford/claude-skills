@@ -1,0 +1,16 @@
+{
+  "name": "incident-response",
+  "version": "1.0.0",
+  "description": "Incident response and breach management including IR planning, forensics, incident communication, containment, and post-incident analysis.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "security",
+    "incident-response",
+    "forensics",
+    "breach",
+    "postmortem"
+  ],
+  "license": "MIT"
+}

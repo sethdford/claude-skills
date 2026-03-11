@@ -1,0 +1,16 @@
+{
+  "name": "security-operations",
+  "version": "1.0.0",
+  "description": "Security operations including SIEM rule design, detection engineering, vulnerability management, security monitoring, and threat intelligence integration.",
+  "author": {
+    "name": "Seth Ford"
+  },
+  "keywords": [
+    "security",
+    "siem",
+    "detection",
+    "monitoring",
+    "threat-intelligence"
+  ],
+  "license": "MIT"
+}

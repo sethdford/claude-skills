@@ -1,0 +1,8 @@
+{
+    "name": "functional-testing",
+    "version": "1.0.0",
+    "description": "QA skills for functional-testing domain.",
+    "author": { "name": "Seth Ford" },
+    "keywords": ["qa", "testing"],
+    "license": "MIT"
+}

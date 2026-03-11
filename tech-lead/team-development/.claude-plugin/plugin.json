@@ -1,0 +1,8 @@
+{
+  "name": "team-development",
+  "version": "1.0.0",
+  "description": "Mentoring, 1:1s, skill development, and career growth for tech leads.",
+  "author": { "name": "Seth Ford" },
+  "keywords": ["tech-lead", "mentoring", "career", "development", "1-on-1"],
+  "license": "MIT"
+}

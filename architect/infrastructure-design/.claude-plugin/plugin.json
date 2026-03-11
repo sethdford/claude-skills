@@ -1,0 +1,14 @@
+{
+  "name": "infrastructure-design",
+  "version": "1.0.0",
+  "description": "Design cloud infrastructure, deployment topology, disaster recovery, and capacity planning. Master Kubernetes, Terraform, and multi-region architectures.",
+  "author": { "name": "Seth Ford" },
+  "keywords": [
+    "architect",
+    "infrastructure",
+    "cloud",
+    "deployment",
+    "kubernetes"
+  ],
+  "license": "MIT"
+}
