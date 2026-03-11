@@ -1,0 +1,15 @@
+title: Claude Skills
+description: 454 standards-grounded Claude Code skills for every PDLC role
+url: https://sethdford.github.io
+baseurl: /claude-skills
+remote_theme: pages-themes/minimal@v0.2.0
+
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - .claude-plugin
+  - "*/skills"
+  - "*/commands"
+  - "*/.claude-plugin"
+  - LICENSE
